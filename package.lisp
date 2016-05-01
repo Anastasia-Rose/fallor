@@ -1,3 +1,5 @@
-(defpackage :fallor
-  (:use :cl :xelf)
-  (:export fallor))
+;;;; package.lisp
+
+(defpackage #:fallor
+  (:use #:cl #:xelf))
+

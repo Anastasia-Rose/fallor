@@ -1,6 +1,0 @@
-;;;; fallor.lisp
-
-(in-package #:fallor)
-
-;;; "fallor" goes here. Hacks and glory await!
-

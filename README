@@ -1,0 +1,9 @@
+Fallor is a falling block game similar to the good old tetrominos from back in the day. The game is built with SBCL and the Xelf library. Currently, it's incomplete, although an install is possible (EDIT: Still working on an install). To do so, you will need to install Xelf. The instructions for installing Xelf can be found here:
+
+xelf.me
+
+After installing Xelf, use quickload to install the file in your local-projects folder of quicklisp. Then you can should be able to acess the game via:
+
+(fallor:fallor)
+
+If there is an error, let Anastasia Rose know at anastasiarosegirl@gmail.com or at #lispgames IRC. Let dto know via the contact information on xelf.me if there are any errors or issues installing xelf.me. Currently an executable isn't ready yet, but will be soon. Thank you for being interested in Fallor.
